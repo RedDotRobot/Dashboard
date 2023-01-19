@@ -1,2 +1,2 @@
 # Dashboard
-## A simple dashboard app built in HTML
+A simple dashboard app built in HTML
